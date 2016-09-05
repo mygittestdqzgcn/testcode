@@ -2,5 +2,5 @@
 
 void phello(void)
 {
-	
+	printf("hello");
 }
